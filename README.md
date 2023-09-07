@@ -1,3 +1,3 @@
-# Kaggle: House Prices.
+# House Prices: Blended models solution.
 
-My approach to the infamous Kaggle competition that put me in the top 16%.
+My three-model approach to the infamous Kaggle competition.
